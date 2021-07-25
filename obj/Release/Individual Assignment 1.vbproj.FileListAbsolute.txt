@@ -1,0 +1,15 @@
+D:\CSC301 - Visual Programming\Individual Assignment 1\bin\Release\Individual Assignment 1.exe.config
+D:\CSC301 - Visual Programming\Individual Assignment 1\bin\Release\Individual Assignment 1.exe
+D:\CSC301 - Visual Programming\Individual Assignment 1\bin\Release\Individual Assignment 1.pdb
+D:\CSC301 - Visual Programming\Individual Assignment 1\bin\Release\Individual Assignment 1.xml
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.vbprojAssemblyReference.cache
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual_Assignment_1.Form1.resources
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual_Assignment_1.Form2.resources
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual_Assignment_1.Form3.resources
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual_Assignment_1.Form4.resources
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual_Assignment_1.Resources.resources
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.vbproj.GenerateResource.cache
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.vbproj.CoreCompileInputs.cache
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.exe
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.xml
+D:\CSC301 - Visual Programming\Individual Assignment 1\obj\Release\Individual Assignment 1.pdb
